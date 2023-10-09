@@ -1,7 +1,7 @@
-import Header from "@/components/Header";
+import Header from "@/src/components/Header";
 import "./globals.css";
 import { Outfit } from "next/font/google";
-import Footer from "@/components/Footer";
+import Footer from "@/src/components/Footer";
 
 const inter = Outfit({
   subsets: ["latin"],
